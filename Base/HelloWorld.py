@@ -1,3 +1,3 @@
-# Вывод строки "Привет, Мир!"
+# Вывод строки "Hello, World"
 
-print("Hello World")
+print("Hello, World")

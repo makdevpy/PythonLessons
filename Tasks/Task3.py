@@ -11,6 +11,7 @@ def getUserNumber():
 
         if userNumber > 0:
             break
+
         print("Число должно быть больше нуля")
 
     while userNumber > 0:
